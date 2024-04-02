@@ -40,12 +40,12 @@ command-git push origin main
 
 # init
 
-query-initializes an empty Git repository in local system
+query-initializes an empty Git repository in local system.  
 command-git init
 
 # pushing local repo to github
 
-query-first you have to create a repo in Github without creating any files in it.
+query-first you have to create a repo in Github without creating any files in it.  
 commands- git remote add origin link, git remote -v(to verify remote), git branch(to check branch), git branch -M main(to rename branch), git push origin main
 
 # line break
