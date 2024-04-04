@@ -51,8 +51,8 @@ query-first you have to create a repo in Github without creating any files in it
 commands- git remote add origin link, git remote -v(to verify remote), git branch(to check branch), git branch -M main(to rename branch), git push origin main(to push the changed repo to the github)
 
 # Branch
-
-commands- git branch(to check branch), git branch -M main(to rename branch),  git checkout -b <new branch name>(to create new branch), git checkout <new branch name>(to navigate), git branch -d git checkout -b <branch name>(to delete a branch), git diff(to compare commits,branches and files), git merge<branch name>(to merge two branches) or create a pull request.
+  
+commands- git branch(to check branch), git branch -M main(to rename branch),  git checkout -b <new branch name>(to create new branch), git checkout <new branch name>(to navigate), git branch -d git checkout -b <branch name>(to delete a branch), git diff(to compare commits,branches and files), git merge<branch name>(to merge two branches) or create a pull request
 
 # line break
 
