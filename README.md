@@ -48,7 +48,7 @@ command-git init
 # pushing local repo to github
 
 query-first you have to create a repo in Github without creating any files in it.  
-commands- git remote add origin link, git remote -v(to verify remote), git branch(to check branch), git branch -M main(to rename branch), git push origin main(to push the changed repo to the github)
+commands- git remote add origin link, git remote -v(to verify remote), git branch(to check branch), git branch -M main(to rename branch), git push origin main(to push the changed repo to the github).
 
 # line break
 
