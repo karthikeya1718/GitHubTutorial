@@ -26,7 +26,7 @@ command-git status
 # add
 
 query-add new or changed files in your working directiry to the staging area.  
-command-commit add <file name>
+command-git add <file name>
 
 # commit
 
